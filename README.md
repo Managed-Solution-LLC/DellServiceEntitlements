@@ -45,7 +45,7 @@ Import-Module -Name DellServiceEntitlements
 
 ### From GitHub Releases
 
-1. Download the latest release from the [GitHub releases page](https://github.com/WFord26/DellServiceEntitlements/releases)
+1. Download the latest release from the [GitHub releases page](https://github.com/managed-solution-llc/DellServiceEntitlements/releases)
 2. Extract the downloaded file to a directory of your choice
 3. Open PowerShell and navigate to the directory where you extracted the files
 4. Import the module:
@@ -351,14 +351,14 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 ### Getting Support
 - Review the [CHANGELOG.md](CHANGELOG.md) for recent updates
-- Check [GitHub Issues](https://github.com/WFord26/DellServiceEntitlements/issues) for known problems
+- Check [GitHub Issues](https://github.com/managed-solution-llc/DellServiceEntitlements/issues) for known problems
 - Submit new issues with detailed error information and steps to reproduce
 
 ## Resources
 
 - **Dell TechDirect**: [Get API Credentials](https://techdirect.dell.com/Portal/ApplyForAPIKeyWizard.aspx)
 - **PowerShell Gallery**: [Module Page](https://www.powershellgallery.com/packages/DellServiceEntitlements)
-- **GitHub Repository**: [Source Code](https://github.com/WFord26/DellServiceEntitlements)
+- **GitHub Repository**: [Source Code](https://github.com/managed-solution-llc/DellServiceEntitlements)
 - **Documentation**: [Function Reference](./Documentation/)
 
 ---
@@ -380,4 +380,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 **Version**: 0.4.3  
 **Last Updated**: June 24, 2025
 
-For technical support, feature requests, or bug reports, please use the [GitHub Issues](https://github.com/WFord26/DellServiceEntitlements/issues) page.
+For technical support, feature requests, or bug reports, please use the [GitHub Issues](https://github.com/managed-solution-llc/DellServiceEntitlements/issues) page.
